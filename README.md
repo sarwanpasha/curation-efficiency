@@ -137,7 +137,7 @@ here. To reproduce:
    portmanteau tests unconditionally, and the corrected test only when a
    confirmed admissible covariate exists.
 
-## Interpreting results honestly
+## Interpreting results
 
 Three distinctions are load-bearing and easy to blur.
 
