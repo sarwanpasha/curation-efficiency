@@ -1,4 +1,4 @@
-# Efficiency of Categorical Curation is Partially Identified
+# Curation Efficiency of Categorical Curation is Partially Identified
 
 Theory, methods, and analysis code for a belief-martingale treatment of
 efficiency in vintaged categorical gold standards, with an application to
