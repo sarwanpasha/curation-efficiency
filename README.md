@@ -68,8 +68,6 @@ scripts/
   run_calibration.sbatch  SLURM array driver for the calibration grid
 results/
   verified_results.md   all computed numbers with scope tags
-paper/
-  main.tex, references.bib, main.pdf
 ```
 
 ## Quick start
